@@ -1,1 +1,7 @@
 Versión 2
+git init (para inicializar repositorio)
+git config --global user.name "Kevin Cuadros"
+git config --global user.email "kevinandrey212@gmail.com"
+git status
+git add . (agregar los cambios del area de stagging)
+git add <nombrearchivo>
